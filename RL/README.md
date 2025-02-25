@@ -1,0 +1,1 @@
+this project solves a maze with cute animations.
